@@ -40,4 +40,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/Shamanyu-coder/DSA/tree/master/0680-valid-palindrome-ii) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Shamanyu-coder/DSA/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Shamanyu-coder/DSA/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Shamanyu-coder/DSA/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Shamanyu-coder/DSA/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
