@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Shamanyu-coder/DSA/tree/master/0139-word-break) |
 | [1732-find-the-highest-altitude](https://github.com/Shamanyu-coder/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1840-maximum-building-height](https://github.com/Shamanyu-coder/DSA/tree/master/1840-maximum-building-height) |
+| [3796-find-maximum-value-in-a-constrained-sequence](https://github.com/Shamanyu-coder/DSA/tree/master/3796-find-maximum-value-in-a-constrained-sequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/Shamanyu-coder/DSA/tree/master/0680-valid-palindrome-ii) |
+| [3796-find-maximum-value-in-a-constrained-sequence](https://github.com/Shamanyu-coder/DSA/tree/master/3796-find-maximum-value-in-a-constrained-sequence) |
 ## Tree
 |  |
 | ------- |
