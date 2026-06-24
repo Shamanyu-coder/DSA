@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/Shamanyu-coder/DSA/tree/master/0139-word-break) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Shamanyu-coder/DSA/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/Shamanyu-coder/DSA/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Trie
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0939-minimum-area-rectangle](https://github.com/Shamanyu-coder/DSA/tree/master/0939-minimum-area-rectangle) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Shamanyu-coder/DSA/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/Shamanyu-coder/DSA/tree/master/1840-maximum-building-height) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/Shamanyu-coder/DSA/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Two Pointers
 |  |
 | ------- |
