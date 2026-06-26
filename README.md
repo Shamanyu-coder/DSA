@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/Shamanyu-coder/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Shamanyu-coder/DSA/tree/master/1840-maximum-building-height) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shamanyu-coder/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Shamanyu-coder/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3796-find-maximum-value-in-a-constrained-sequence](https://github.com/Shamanyu-coder/DSA/tree/master/3796-find-maximum-value-in-a-constrained-sequence) |
 ## Hash Table
 |  |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0939-minimum-area-rectangle](https://github.com/Shamanyu-coder/DSA/tree/master/0939-minimum-area-rectangle) |
 | [1189-maximum-number-of-balloons](https://github.com/Shamanyu-coder/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shamanyu-coder/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Shamanyu-coder/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## String
 |  |
 | ------- |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/Shamanyu-coder/DSA/tree/master/1732-find-the-highest-altitude) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Shamanyu-coder/DSA/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shamanyu-coder/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Shamanyu-coder/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -99,12 +102,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shamanyu-coder/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Shamanyu-coder/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shamanyu-coder/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Shamanyu-coder/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Merge Sort
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shamanyu-coder/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Shamanyu-coder/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 <!---LeetCode Topics End-->
