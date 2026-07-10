@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Shamanyu-coder/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Shamanyu-coder/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Shamanyu-coder/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shamanyu-coder/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Shamanyu-coder/DSA/tree/master/3620-network-recovery-pathways) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shamanyu-coder/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Shamanyu-coder/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/Shamanyu-coder/DSA/tree/master/0139-word-break) |
 | [1301-number-of-paths-with-max-score](https://github.com/Shamanyu-coder/DSA/tree/master/1301-number-of-paths-with-max-score) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shamanyu-coder/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Shamanyu-coder/DSA/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Shamanyu-coder/DSA/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Shamanyu-coder/DSA/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -71,12 +73,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/Shamanyu-coder/DSA/tree/master/0680-valid-palindrome-ii) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shamanyu-coder/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Greedy
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/Shamanyu-coder/DSA/tree/master/0680-valid-palindrome-ii) |
 | [1833-maximum-ice-cream-bars](https://github.com/Shamanyu-coder/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Shamanyu-coder/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shamanyu-coder/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3796-find-maximum-value-in-a-constrained-sequence](https://github.com/Shamanyu-coder/DSA/tree/master/3796-find-maximum-value-in-a-constrained-sequence) |
 ## Tree
 |  |
@@ -111,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/Shamanyu-coder/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Shamanyu-coder/DSA/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Shamanyu-coder/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shamanyu-coder/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Counting Sort
 |  |
 | ------- |
@@ -153,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Shamanyu-coder/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Shamanyu-coder/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shamanyu-coder/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Shamanyu-coder/DSA/tree/master/3620-network-recovery-pathways) |
 ## Union-Find
 |  |
@@ -173,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Shamanyu-coder/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shamanyu-coder/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Shamanyu-coder/DSA/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
@@ -182,4 +189,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/Shamanyu-coder/DSA/tree/master/3620-network-recovery-pathways) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shamanyu-coder/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 <!---LeetCode Topics End-->
