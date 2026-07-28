@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Shamanyu-coder/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Shamanyu-coder/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Shamanyu-coder/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Shamanyu-coder/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Shamanyu-coder/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Dynamic Programming
 |  |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/Shamanyu-coder/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Shamanyu-coder/DSA/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Shamanyu-coder/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Shamanyu-coder/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shamanyu-coder/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Shamanyu-coder/DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Counting Sort
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Shamanyu-coder/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1833-maximum-ice-cream-bars](https://github.com/Shamanyu-coder/DSA/tree/master/1833-maximum-ice-cream-bars) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Shamanyu-coder/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shamanyu-coder/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Geometry
 |  |
