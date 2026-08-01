@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Shamanyu-coder/DSA/tree/master/0022-generate-parentheses) |
 | [0139-word-break](https://github.com/Shamanyu-coder/DSA/tree/master/0139-word-break) |
+| [0464-can-i-win](https://github.com/Shamanyu-coder/DSA/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/Shamanyu-coder/DSA/tree/master/0486-predict-the-winner) |
 | [1301-number-of-paths-with-max-score](https://github.com/Shamanyu-coder/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Shamanyu-coder/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -84,9 +85,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Shamanyu-coder/DSA/tree/master/0139-word-break) |
+| [0464-can-i-win](https://github.com/Shamanyu-coder/DSA/tree/master/0464-can-i-win) |
 ## Math
 |  |
 | ------- |
+| [0464-can-i-win](https://github.com/Shamanyu-coder/DSA/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/Shamanyu-coder/DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shamanyu-coder/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0939-minimum-area-rectangle](https://github.com/Shamanyu-coder/DSA/tree/master/0939-minimum-area-rectangle) |
@@ -245,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0401-binary-watch](https://github.com/Shamanyu-coder/DSA/tree/master/0401-binary-watch) |
+| [0464-can-i-win](https://github.com/Shamanyu-coder/DSA/tree/master/0464-can-i-win) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shamanyu-coder/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Number Theory
 |  |
@@ -280,6 +284,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0464-can-i-win](https://github.com/Shamanyu-coder/DSA/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/Shamanyu-coder/DSA/tree/master/0486-predict-the-winner) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Shamanyu-coder/DSA/tree/master/3222-find-the-winning-player-in-coin-game) |
+## Bitmask
+|  |
+| ------- |
+| [0464-can-i-win](https://github.com/Shamanyu-coder/DSA/tree/master/0464-can-i-win) |
 <!---LeetCode Topics End-->
