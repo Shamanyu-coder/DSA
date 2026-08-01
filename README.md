@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/Shamanyu-coder/DSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Shamanyu-coder/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Shamanyu-coder/DSA/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Shamanyu-coder/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shamanyu-coder/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/Shamanyu-coder/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/Shamanyu-coder/DSA/tree/master/1833-maximum-ice-cream-bars) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/Shamanyu-coder/DSA/tree/master/0680-valid-palindrome-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Shamanyu-coder/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shamanyu-coder/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Greedy
 |  |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0939-minimum-area-rectangle](https://github.com/Shamanyu-coder/DSA/tree/master/0939-minimum-area-rectangle) |
 | [1288-remove-covered-intervals](https://github.com/Shamanyu-coder/DSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Shamanyu-coder/DSA/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Shamanyu-coder/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shamanyu-coder/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Shamanyu-coder/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Shamanyu-coder/DSA/tree/master/1840-maximum-building-height) |
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Shamanyu-coder/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Shamanyu-coder/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Shamanyu-coder/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Shamanyu-coder/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
