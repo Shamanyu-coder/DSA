@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1840-maximum-building-height](https://github.com/Shamanyu-coder/DSA/tree/master/1840-maximum-building-height) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shamanyu-coder/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shamanyu-coder/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/Shamanyu-coder/DSA/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Shamanyu-coder/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Shamanyu-coder/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Shamanyu-coder/DSA/tree/master/3536-maximum-product-of-two-digits) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/Shamanyu-coder/DSA/tree/master/1929-concatenation-of-array) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/Shamanyu-coder/DSA/tree/master/3222-find-the-winning-player-in-coin-game) |
 ## Sliding Window
 |  |
 | ------- |
@@ -279,4 +281,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Shamanyu-coder/DSA/tree/master/0486-predict-the-winner) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/Shamanyu-coder/DSA/tree/master/3222-find-the-winning-player-in-coin-game) |
 <!---LeetCode Topics End-->
