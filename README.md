@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Shamanyu-coder/DSA/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Shamanyu-coder/DSA/tree/master/0014-longest-common-prefix) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Shamanyu-coder/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/Shamanyu-coder/DSA/tree/master/0139-word-break) |
 | [0486-predict-the-winner](https://github.com/Shamanyu-coder/DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shamanyu-coder/DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Shamanyu-coder/DSA/tree/master/0022-generate-parentheses) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Shamanyu-coder/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/Shamanyu-coder/DSA/tree/master/0139-word-break) |
 | [0464-can-i-win](https://github.com/Shamanyu-coder/DSA/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/Shamanyu-coder/DSA/tree/master/0486-predict-the-winner) |
