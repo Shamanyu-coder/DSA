@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shamanyu-coder/DSA/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Shamanyu-coder/DSA/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/Shamanyu-coder/DSA/tree/master/0139-word-break) |
 | [0486-predict-the-winner](https://github.com/Shamanyu-coder/DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shamanyu-coder/DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Shamanyu-coder/DSA/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Shamanyu-coder/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Shamanyu-coder/DSA/tree/master/0022-generate-parentheses) |
 | [0139-word-break](https://github.com/Shamanyu-coder/DSA/tree/master/0139-word-break) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Shamanyu-coder/DSA/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/Shamanyu-coder/DSA/tree/master/0139-word-break) |
 ## Memoization
 |  |
