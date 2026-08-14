@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Shamanyu-coder/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Shamanyu-coder/DSA/tree/master/0022-generate-parentheses) |
 | [0139-word-break](https://github.com/Shamanyu-coder/DSA/tree/master/0139-word-break) |
+| [0168-excel-sheet-column-title](https://github.com/Shamanyu-coder/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0214-shortest-palindrome](https://github.com/Shamanyu-coder/DSA/tree/master/0214-shortest-palindrome) |
 | [0389-find-the-difference](https://github.com/Shamanyu-coder/DSA/tree/master/0389-find-the-difference) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Shamanyu-coder/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0168-excel-sheet-column-title](https://github.com/Shamanyu-coder/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0464-can-i-win](https://github.com/Shamanyu-coder/DSA/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/Shamanyu-coder/DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shamanyu-coder/DSA/tree/master/0628-maximum-product-of-three-numbers) |
