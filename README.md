@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shamanyu-coder/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shamanyu-coder/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Shamanyu-coder/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Shamanyu-coder/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Shamanyu-coder/DSA/tree/master/3074-apple-redistribution-into-boxes) |
 | [3238-find-the-number-of-winning-players](https://github.com/Shamanyu-coder/DSA/tree/master/3238-find-the-number-of-winning-players) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Shamanyu-coder/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/Shamanyu-coder/DSA/tree/master/1929-concatenation-of-array) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Shamanyu-coder/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Shamanyu-coder/DSA/tree/master/3222-find-the-winning-player-in-coin-game) |
 ## Sliding Window
 |  |
