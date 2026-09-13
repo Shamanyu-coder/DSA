@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Shamanyu-coder/DSA/tree/master/0139-word-break) |
 | [0486-predict-the-winner](https://github.com/Shamanyu-coder/DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shamanyu-coder/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0835-image-overlap](https://github.com/Shamanyu-coder/DSA/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Shamanyu-coder/DSA/tree/master/0877-stone-game) |
 | [0939-minimum-area-rectangle](https://github.com/Shamanyu-coder/DSA/tree/master/0939-minimum-area-rectangle) |
 | [1288-remove-covered-intervals](https://github.com/Shamanyu-coder/DSA/tree/master/1288-remove-covered-intervals) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Shamanyu-coder/DSA/tree/master/0054-spiral-matrix) |
+| [0835-image-overlap](https://github.com/Shamanyu-coder/DSA/tree/master/0835-image-overlap) |
 | [1301-number-of-paths-with-max-score](https://github.com/Shamanyu-coder/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Shamanyu-coder/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Shamanyu-coder/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
