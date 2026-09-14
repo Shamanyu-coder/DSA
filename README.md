@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0464-can-i-win](https://github.com/Shamanyu-coder/DSA/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/Shamanyu-coder/DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shamanyu-coder/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/Shamanyu-coder/DSA/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Shamanyu-coder/DSA/tree/master/0877-stone-game) |
 | [0939-minimum-area-rectangle](https://github.com/Shamanyu-coder/DSA/tree/master/0939-minimum-area-rectangle) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Shamanyu-coder/DSA/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/Shamanyu-coder/DSA/tree/master/0836-rectangle-overlap) |
 | [0939-minimum-area-rectangle](https://github.com/Shamanyu-coder/DSA/tree/master/0939-minimum-area-rectangle) |
 ## Divide and Conquer
 |  |
