@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Shamanyu-coder/DSA/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Shamanyu-coder/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0139-word-break](https://github.com/Shamanyu-coder/DSA/tree/master/0139-word-break) |
+| [0290-word-pattern](https://github.com/Shamanyu-coder/DSA/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/Shamanyu-coder/DSA/tree/master/0389-find-the-difference) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Shamanyu-coder/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0939-minimum-area-rectangle](https://github.com/Shamanyu-coder/DSA/tree/master/0939-minimum-area-rectangle) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Shamanyu-coder/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0179-largest-number](https://github.com/Shamanyu-coder/DSA/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/Shamanyu-coder/DSA/tree/master/0214-shortest-palindrome) |
+| [0290-word-pattern](https://github.com/Shamanyu-coder/DSA/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/Shamanyu-coder/DSA/tree/master/0389-find-the-difference) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Shamanyu-coder/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0680-valid-palindrome-ii](https://github.com/Shamanyu-coder/DSA/tree/master/0680-valid-palindrome-ii) |
