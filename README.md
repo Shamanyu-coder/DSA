@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Shamanyu-coder/DSA/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/Shamanyu-coder/DSA/tree/master/0389-find-the-difference) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Shamanyu-coder/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0678-valid-parenthesis-string](https://github.com/Shamanyu-coder/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Shamanyu-coder/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0940-distinct-subsequences-ii](https://github.com/Shamanyu-coder/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/Shamanyu-coder/DSA/tree/master/1096-brace-expansion-ii) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Shamanyu-coder/DSA/tree/master/0139-word-break) |
 | [0464-can-i-win](https://github.com/Shamanyu-coder/DSA/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/Shamanyu-coder/DSA/tree/master/0486-predict-the-winner) |
+| [0678-valid-parenthesis-string](https://github.com/Shamanyu-coder/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Shamanyu-coder/DSA/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/Shamanyu-coder/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/Shamanyu-coder/DSA/tree/master/1301-number-of-paths-with-max-score) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shamanyu-coder/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/Shamanyu-coder/DSA/tree/master/0179-largest-number) |
+| [0678-valid-parenthesis-string](https://github.com/Shamanyu-coder/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Shamanyu-coder/DSA/tree/master/0680-valid-palindrome-ii) |
 | [1386-cinema-seat-allocation](https://github.com/Shamanyu-coder/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1833-maximum-ice-cream-bars](https://github.com/Shamanyu-coder/DSA/tree/master/1833-maximum-ice-cream-bars) |
@@ -527,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Shamanyu-coder/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Shamanyu-coder/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1096-brace-expansion-ii](https://github.com/Shamanyu-coder/DSA/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Shamanyu-coder/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shamanyu-coder/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -536,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Shamanyu-coder/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Shamanyu-coder/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Shamanyu-coder/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Shamanyu-coder/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shamanyu-coder/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shamanyu-coder/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
