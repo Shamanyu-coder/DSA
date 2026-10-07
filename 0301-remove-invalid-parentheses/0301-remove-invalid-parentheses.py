@@ -1,0 +1,47 @@
+from collections import deque
+
+class Solution:
+    def removeInvalidParentheses(self, s: str):
+        
+        def isValid(s):
+            balance = 0
+
+            for ch in s:
+                if ch == '(':
+                    balance += 1
+                elif ch == ')':
+                    balance -= 1
+
+                    if balance < 0:
+                        return False
+
+            return balance == 0
+
+        queue = deque([s])
+        visited = {s}
+
+        while queue:
+            level_size = len(queue)
+            ans = []
+
+            for _ in range(level_size):
+                current = queue.popleft()
+
+                if isValid(current):
+                    ans.append(current)
+
+                for i in range(len(current)):
+                    if current[i] not in "()":
+                        continue
+
+                    new_string = current[:i] + current[i + 1:]
+
+                    if new_string not in visited:
+                        visited.add(new_string)
+                        queue.append(new_string)
+
+            
+            if ans:
+                return ans
+
+        return [""]
