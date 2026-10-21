@@ -9,11 +9,10 @@ class Solution:
         mn = min(s)
         mx = max(s)
         
-        # 1 operation: min character is already first OR max character is already last
+        
         if s[0] == mn or s[-1] == mx:
             return 1
             
-        # 3 operations: max is stuck at start AND min is stuck at end
         if s.count(mx) == 1 and s[0] == mx and s.count(mn) == 1 and s[-1] == mn:
             return 3
             
