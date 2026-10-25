@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/Shamanyu-coder/DSA/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Shamanyu-coder/DSA/tree/master/0877-stone-game) |
 | [0939-minimum-area-rectangle](https://github.com/Shamanyu-coder/DSA/tree/master/0939-minimum-area-rectangle) |
+| [1254-number-of-closed-islands](https://github.com/Shamanyu-coder/DSA/tree/master/1254-number-of-closed-islands) |
 | [1288-remove-covered-intervals](https://github.com/Shamanyu-coder/DSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Shamanyu-coder/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Shamanyu-coder/DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Shamanyu-coder/DSA/tree/master/0100-same-tree) |
+| [1254-number-of-closed-islands](https://github.com/Shamanyu-coder/DSA/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Shamanyu-coder/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2685-count-the-number-of-complete-components](https://github.com/Shamanyu-coder/DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Shamanyu-coder/DSA/tree/master/3310-remove-methods-from-project) |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Shamanyu-coder/DSA/tree/master/0100-same-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/Shamanyu-coder/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Shamanyu-coder/DSA/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/Shamanyu-coder/DSA/tree/master/1254-number-of-closed-islands) |
 | [2685-count-the-number-of-complete-components](https://github.com/Shamanyu-coder/DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Shamanyu-coder/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/Shamanyu-coder/DSA/tree/master/3310-remove-methods-from-project) |
@@ -434,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/Shamanyu-coder/DSA/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Shamanyu-coder/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2685-count-the-number-of-complete-components](https://github.com/Shamanyu-coder/DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Shamanyu-coder/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -450,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Shamanyu-coder/DSA/tree/master/0054-spiral-matrix) |
 | [0835-image-overlap](https://github.com/Shamanyu-coder/DSA/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/Shamanyu-coder/DSA/tree/master/1254-number-of-closed-islands) |
 | [1301-number-of-paths-with-max-score](https://github.com/Shamanyu-coder/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Shamanyu-coder/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Shamanyu-coder/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
