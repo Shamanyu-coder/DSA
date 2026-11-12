@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Shamanyu-coder/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Shamanyu-coder/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Shamanyu-coder/DSA/tree/master/3074-apple-redistribution-into-boxes) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Shamanyu-coder/DSA/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3238-find-the-number-of-winning-players](https://github.com/Shamanyu-coder/DSA/tree/master/3238-find-the-number-of-winning-players) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Shamanyu-coder/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Shamanyu-coder/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
