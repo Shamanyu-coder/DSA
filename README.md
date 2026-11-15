@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Shamanyu-coder/DSA/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3238-find-the-number-of-winning-players](https://github.com/Shamanyu-coder/DSA/tree/master/3238-find-the-number-of-winning-players) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Shamanyu-coder/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Shamanyu-coder/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Shamanyu-coder/DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Shamanyu-coder/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Shamanyu-coder/DSA/tree/master/3483-unique-3-digit-even-numbers) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shamanyu-coder/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/Shamanyu-coder/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1872-stone-game-viii](https://github.com/Shamanyu-coder/DSA/tree/master/1872-stone-game-viii) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Shamanyu-coder/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Shamanyu-coder/DSA/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shamanyu-coder/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Shamanyu-coder/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -455,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Shamanyu-coder/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shamanyu-coder/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shamanyu-coder/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Shamanyu-coder/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Shamanyu-coder/DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Shamanyu-coder/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Binary Search
